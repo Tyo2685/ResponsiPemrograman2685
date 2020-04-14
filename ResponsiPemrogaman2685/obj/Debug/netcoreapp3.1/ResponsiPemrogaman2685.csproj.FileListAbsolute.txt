@@ -1,0 +1,13 @@
+D:\Baru\ResponsiPemrogaman2685\bin\Debug\netcoreapp3.1\ResponsiPemrogaman2685.exe
+D:\Baru\ResponsiPemrogaman2685\bin\Debug\netcoreapp3.1\ResponsiPemrogaman2685.deps.json
+D:\Baru\ResponsiPemrogaman2685\bin\Debug\netcoreapp3.1\ResponsiPemrogaman2685.runtimeconfig.json
+D:\Baru\ResponsiPemrogaman2685\bin\Debug\netcoreapp3.1\ResponsiPemrogaman2685.runtimeconfig.dev.json
+D:\Baru\ResponsiPemrogaman2685\bin\Debug\netcoreapp3.1\ResponsiPemrogaman2685.dll
+D:\Baru\ResponsiPemrogaman2685\bin\Debug\netcoreapp3.1\ResponsiPemrogaman2685.pdb
+D:\Baru\ResponsiPemrogaman2685\obj\Debug\netcoreapp3.1\ResponsiPemrogaman2685.csprojAssemblyReference.cache
+D:\Baru\ResponsiPemrogaman2685\obj\Debug\netcoreapp3.1\ResponsiPemrogaman2685.csproj.CoreCompileInputs.cache
+D:\Baru\ResponsiPemrogaman2685\obj\Debug\netcoreapp3.1\ResponsiPemrogaman2685.AssemblyInfoInputs.cache
+D:\Baru\ResponsiPemrogaman2685\obj\Debug\netcoreapp3.1\ResponsiPemrogaman2685.AssemblyInfo.cs
+D:\Baru\ResponsiPemrogaman2685\obj\Debug\netcoreapp3.1\ResponsiPemrogaman2685.dll
+D:\Baru\ResponsiPemrogaman2685\obj\Debug\netcoreapp3.1\ResponsiPemrogaman2685.pdb
+D:\Baru\ResponsiPemrogaman2685\obj\Debug\netcoreapp3.1\ResponsiPemrogaman2685.genruntimeconfig.cache
